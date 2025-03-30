@@ -1,12 +1,12 @@
 # 🤖 IA da Família - SUS de Juiz de Fora  
 📌 **Curso:** Análise e Desenvolvimento de Sistemas  
 👨‍💻 **Líder do Projeto:** Davi Gomes de Carvalho  
-👥 **Equipe:** Ana Beatriz, Iago Domingues, Julio Almeida, Julio Chiavegatto, Mateus Sarlo, Thiago Schmitz Corrêa  
+👥 **Equipe:** Ana Beatriz, Iago Domingues, Julio Almeida, Julio Chiavegatto, Mateus Sarlo, Thiago Schmitz Correa  
 
 ---
 
 ## 📌 Visão Geral  
-**IA da Família** é uma plataforma digital interativa que utiliza **Inteligça Artificial** para melhorar o acesso às informações e serviços do **SUS**.  
+**IA da Família** é uma plataforma digital interativa que utiliza **Inteligência Artificial** para melhorar o acesso às informações e serviços do **SUS**.  
 
 ### 🎯 **Objetivo Geral**  
 ✅ Fornecer orientações personalizadas sobre saúde.  
