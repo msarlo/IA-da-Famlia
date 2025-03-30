@@ -77,7 +77,7 @@ const Navbar = ({ onToggleDarkMode, onFontSizeChange }) => {
               fontFamily: "var(--font-small)",
             }}
           >
-            Logout
+            Login Admin
           </Button>
         </Box>
       </Modal>

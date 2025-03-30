@@ -23,7 +23,7 @@ function App() {
         <Router>
             <div className={`app-container ${darkMode ? 'dark-mode' : ''}`}>
                 <Routes>
-                    <Route path="/" element={<Navigate to="/login" />} />
+                    <Route path="/" element={<Navigate to="/home" />} />
                     <Route
                         path="/dashboard"
                         element={<DashboardPage />}

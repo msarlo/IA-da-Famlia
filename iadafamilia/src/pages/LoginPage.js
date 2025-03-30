@@ -70,9 +70,6 @@ const LoginPage = () => {
                     Entrar
                 </Button>
             </form>
-            <Button onClick={() => navigate('/register')} sx={{ color: '#5C2D53' }}>
-                Não tem uma conta? Registre-se
-            </Button>
         </Box>
     );
 };
