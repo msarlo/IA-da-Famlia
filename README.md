@@ -1,7 +1,7 @@
 # Projeto “IA da Família” - SUS de Juiz de Fora
 Curso: Análise e Desenvolvimento de Sistemas
 Líder do Projeto: Davi Gomes de Carvalho
-Equipe: Thiago Schmitz Corrêa
+Equipe:Ana Beatriz, Iago Domingues, Julio Almeida, Julio Chiavegatto, Mateus Sarlo e Thiago Schmitz Corrêa
 
 # Visão Geral
 Nome do Projeto: IA da Família - SUS de Juiz de Fora
@@ -29,6 +29,6 @@ Ampliar o acesso por meio de integração com WhatsApp e Telegram.
 # Recursos Utilizados
 - Frontend: React.js
 - Backend: Node.js
-- IA: Python ou JavaScript (Dialogflow)
+- IA: Python 
 - Comunicação: Twilio API (WhatsApp) e Telegram Bot API
 - Ferramentas: Visual Studio Code
