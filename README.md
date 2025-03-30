@@ -1,7 +1,7 @@
 # Projeto “IA da Família” - SUS de Juiz de Fora
 Curso: Análise e Desenvolvimento de Sistemas
 Líder do Projeto: Davi Gomes de Carvalho
-Equipe:Ana Beatriz, Iago Domingues, Julio Almeida, Julio Chiavegatto, Mateus Sarlo e Thiago Schmitz Corrêa
+Equipe: Ana Beatriz, Iago Domingues, Julio Almeida, Julio Chiavegatto, Mateus Sarlo e Thiago Schmitz Corrêa
 
 # Visão Geral
 Nome do Projeto: IA da Família - SUS de Juiz de Fora
