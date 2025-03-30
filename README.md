@@ -9,23 +9,23 @@
 **IA da Família** é uma plataforma digital interativa que utiliza **Inteligência Artificial** para melhorar o acesso às informações e serviços do **SUS**.  
 
 ### 🎯 **Objetivo Geral**  
-✅ Fornecer orientações personalizadas sobre saúde.  
-✅ Facilitar a navegação no sistema de saúde.  
-✅ Otimizar processos administrativos, como **agendamentos** e **cadastro de pacientes**.  
-✅ Disponibilizar **informações em tempo real** sobre unidades de saúde.  
-✅ Promover **educação em saúde** com conteúdos interativos.  
-✅ Criar um **canal de comunicação** entre cidadãos e gestores.  
-✅ Integrar-se aos sistemas do SUS garantindo **interoperabilidade e consistência**.  
+• Fornecer orientações personalizadas sobre saúde.  
+• Facilitar a navegação no sistema de saúde.  
+• Otimizar processos administrativos, como **agendamentos** e **cadastro de pacientes**.  
+• Disponibilizar **informações em tempo real** sobre unidades de saúde.  
+• Promover **educação em saúde** com conteúdos interativos.  
+• Criar um **canal de comunicação** entre cidadãos e gestores.  
+• Integrar-se aos sistemas do SUS garantindo **interoperabilidade e consistência**.  
 
 ---
 
 ## 📅 **Fases do Projeto**  
 
-### 🔹 **Fase 1 (2024)**  
-✅ Desenvolver uma **interface acessível** e funcional.  
-✅ Implementar um **chatbot simulado** com **Dialogflow**.  
+### **『 Fase 1 / 2024 』**
+✔ Desenvolver uma **interface acessível** e funcional.  
+✔ Implementar um **chatbot simulado** com **Dialogflow**.  
 
-### 🔹 **Fase 2 (2025)**  
+### **『 Fase 2 / 2025 』**
 🚧 Treinar e integrar uma **IA real** ao sistema.  
 🚧 Ampliar o acesso via **WhatsApp e Telegram**.  
 
@@ -83,21 +83,21 @@ node server.js
 
 ## 🔨 **O que já foi implementado?**  
 
-✅ Estruturação inicial do projeto (frontend e backend).  
-✅ Interface com **React.js** e **Material UI**.  
-✅ Chatbot básico com **Dialogflow**.  
-✅ Configuração do banco de dados **SQLite**.  
-✅ API inicial com **Express.js**.  
+✔ Estruturação inicial do projeto (frontend e backend).  
+✔ Interface com **React.js** e **Material UI**.  
+✔ Chatbot básico com **Dialogflow**.  
+✔ Configuração do banco de dados **SQLite**.  
+✔ API inicial com **Express.js**.  
 
 
 
 ## 🚧 **Próximas Implementações**  
 
-🔹 Criar endpoints para autenticação de usuários.  
-🔹 Desenvolver um painel administrativo.  
-🔹 Melhorar a experiência do chatbot.  
-🔹 Implementar integração com **WhatsApp e Telegram**.  
-🔹 Criar dashboards com **dados em tempo real**.  
+🔧 Criar endpoints para autenticação de usuários.  
+🔧 Desenvolver um painel administrativo.  
+🔧 Melhorar a experiência do chatbot.  
+🔧 Implementar integração com **WhatsApp e Telegram**.  
+🔧 Criar dashboards com **dados em tempo real**.  
 
 ---
 
