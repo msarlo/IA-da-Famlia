@@ -347,3 +347,72 @@ footer button:hover {
         margin-bottom: 20px;
     }
 }
+
+.logo-prefeitura {
+    align-content: flex-end;
+    justify-content: left;
+    height: 100px; 
+    object-fit: contain;
+  }
+
+  .sidebar-footer {
+    margin-top: auto;
+    padding: 10px;
+    width: 100%;
+}
+
+.noticias-container {
+    margin-bottom: 10px;
+    transition: all 0.3s ease;
+    width: calc(100% - 20px);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.noticias-button {
+    background-color: var(--amarelo);
+    color: var(--preto);
+    padding: 8px 15px;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 14px;
+    transition: transform 0.3s ease;
+    width: 100%;
+}
+
+.noticias-button:hover {
+    transform: scale(1.05);
+}
+
+.noticias-container.expanded {
+    background-color: var(--white);
+    border-radius: 8px;
+    padding: 15px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    position: relative;
+    min-height: 200px;
+}
+
+.noticias-content {
+    position: relative;
+}
+
+.close-news-button {
+    position: absolute !important;
+    top: -10px;
+    right: -10px;
+    color: var(--vermelho) !important;
+    background-color: var(--white) !important;
+    padding: 4px !important;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.news-items {
+    margin-top: 15px;
+}
+
+.logo {
+    text-align: center;
+    padding: 10px 0;
+}
