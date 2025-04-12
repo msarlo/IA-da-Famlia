@@ -4,6 +4,10 @@ import HomePage from './pages/HomePage';
 import DashboardPage from './pages/DashboardPage';
 import LoginPage from './pages/LoginPage';
 import RegisterPage from './pages/RegisterPage';
+import AdminPrincipal from './views/admin/AdminPrincipal';
+import GestaoIA from './views/admin/GestaoIA';
+import GraficosRelatorios from './views/admin/GraficosRelatorios';
+import LancarConteudo from './views/admin/LancamentoConteudo';
 import './App.css';
 
 function App() {
@@ -40,6 +44,10 @@ function App() {
                             />
                         }
                     />
+                    <Route path="/admin" element={<AdminPrincipal />} />
+                    <Route path="/admin/gestao-ia" element={<GestaoIA />} />
+                    <Route path="/admin/graficos" element={<GraficosRelatorios />} />
+                    <Route path="/admin/lancar-conteudo" element={<LancarConteudo />} />
                 </Routes>
             </div>
         </Router>

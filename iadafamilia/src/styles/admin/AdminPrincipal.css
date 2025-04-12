@@ -1,0 +1,78 @@
+.admin-container {
+  background-color: white;
+  height: 100vh;
+  padding: 20px;
+}
+
+.admin-header {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  border-bottom: 2px solid #19ccb2;
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+}
+
+.admin-greeting {
+  font-size: 28px;
+  font-weight: bold;
+  color: #333;
+}
+
+.logo-placeholder {
+  width: 200px;
+  height: 60px;
+  background-color: #eee;
+  border: 1px dashed #ccc;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  color: #aaa;
+}
+
+.admin-menu {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 40px;
+  flex-wrap: nowrap; 
+}
+
+.menu-button {
+  background-color: white;
+  border: 3px solid #19ccb2;
+  border-radius: 20px;
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.menu-button:hover {
+  transform: scale(1.05);
+}
+
+.menu-icon {
+  font-size: 150px !important; 
+  color: #19ccb2;
+  margin-bottom: 15px;
+  display: block;
+}
+
+.menu-label {
+  font-size: 28px;
+  color: #333;
+  font-weight: 500;
+  text-align: center;
+}
+
+.logo-prefeitura {
+  height: 100px; 
+  object-fit: contain;
+}
+
